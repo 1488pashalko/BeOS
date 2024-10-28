@@ -1,0 +1,362 @@
+/* Frame 1 */
+
+position: relative;
+width: 1501px;
+height: 1774px;
+
+background: linear-gradient(180deg, #0A83C7 0%, #0568A0 100%);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1501px;
+height: 82px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #FEE60A 0%, #B1942D 100%);
+
+
+/* BeOS: дуже незвичайна ОС */
+
+position: absolute;
+width: 501px;
+height: 60px;
+left: 500px;
+top: 2px;
+
+font-family: 'Lucida Grande';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* pngwing.com 1 */
+
+position: absolute;
+width: 123px;
+height: 48px;
+left: 689px;
+top: 34px;
+
+background: url(pngwing.com);
+
+
+/* Group 1 */
+
+position: absolute;
+width: 627px;
+height: 642px;
+left: 16px;
+top: 102px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 399px;
+height: 58px;
+left: 16px;
+top: 102px;
+
+background: linear-gradient(180deg, #FEE60A 0%, #B1942D 100%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 627px;
+height: 588px;
+left: 16px;
+top: 156px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 606px;
+height: 565px;
+left: 27px;
+top: 163px;
+
+background: #FFFFFF;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 627px;
+height: 642px;
+left: 812px;
+top: 102px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 399px;
+height: 58px;
+left: 812px;
+top: 102px;
+
+background: linear-gradient(180deg, #FEE60A 0%, #B1942D 100%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 627px;
+height: 588px;
+left: 812px;
+top: 156px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 606px;
+height: 565px;
+left: 823px;
+top: 163px;
+
+background: #FFFFFF;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 627px;
+height: 642px;
+left: 16px;
+top: 764px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 399px;
+height: 58px;
+left: 16px;
+top: 764px;
+
+background: linear-gradient(180deg, #FEE60A 0%, #B1942D 100%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 627px;
+height: 588px;
+left: 16px;
+top: 818px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 606px;
+height: 565px;
+left: 27px;
+top: 825px;
+
+background: #FFFFFF;
+
+
+/* Усе почалось у офісі Apple inc, коли ще не повернувся Стів Джобс, один з робітників Жан Луї Гассе покидає компанію, щоб створити Be inc. щоб створювати мультимедійні комп’ютери BeBOX з процессорами AT&T Hobbit. ці машини люди називали “silicon graphics для нищих”. у 1995 під ці компи була зробленна перша версія -BeOS developer release 1. */
+
+position: absolute;
+width: 476px;
+height: 398px;
+left: 36px;
+top: 167px;
+
+font-family: 'Lucida Grande';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* розділ 1: зародження Be inc. */
+
+position: absolute;
+width: 626px;
+height: 92px;
+left: 23px;
+top: 114px;
+
+font-family: 'Lucida Grande';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* розділ 2: перехід на PowerPC */
+
+position: absolute;
+width: 334px;
+height: 54px;
+left: 824px;
+top: 102px;
+
+font-family: 'Lucida Grande';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Перехід на нову архітектуру почався так як процессори AT&T Hobbit більше не розроблювали Be inc. перейшли на PowerPC-архітектуру Apple, IBM та Motorolla. Apple поставляла процессори, але це було до того коли Be inc. дозволила встановлювати свою ОС на PowerPC клони макінтошів. Потім Apple захотіла купити Be inc. але Be inc. відмовилися, та через це Apple не поставляє процессорию */
+
+position: absolute;
+width: 572px;
+height: 545px;
+left: 841px;
+top: 170px;
+
+font-family: 'Lucida Grande';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* розділ 3:интел та кінець */
+
+position: absolute;
+width: 424px;
+height: 46px;
+left: -41px;
+top: 764px;
+
+font-family: 'Lucida Grande';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Потім Be.inc перейшла на x86 але Be.inc подала у суд на Microsoft через монополію, Be.inc виграла суд,але Be.inc стала банкротом, та її купила Palm. */
+
+position: absolute;
+width: 590px;
+height: 556px;
+left: 43px;
+top: 834px;
+
+font-family: 'Lucida Grande';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+
+
+
+/* Frame 2 */
+
+position: relative;
+width: 1501px;
+height: 1774px;
+
+background: linear-gradient(180deg, #0A83C7 0%, #0568A0 100%);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1501px;
+height: 82px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #FEE60A 0%, #B1942D 100%);
+
+
+/* Галерея */
+
+position: absolute;
+width: 501px;
+height: 60px;
+left: 500px;
+top: -3px;
+
+font-family: 'Lucida Grande';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* pngwing.com 1 */
+
+position: absolute;
+width: 123px;
+height: 48px;
+left: 689px;
+top: 34px;
+
+background: url(pngwing.com);
+
+
+/* image 1 */
+
+position: absolute;
+width: 300px;
+height: 225px;
+left: 72px;
+top: 128px;
+
+background: url(image.png);
+
+
+/* image 2 */
+
+position: absolute;
+width: 274px;
+height: 225px;
+left: 446px;
+top: 128px;
+
+background: url(image.png);
